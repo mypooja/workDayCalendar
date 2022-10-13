@@ -15,6 +15,8 @@ Screenshots of different views of the website -
 ![ScreenShot of the first half of the page](assets/images/calendar-screenshot-1.png)
 ![ScreenShot of the second half of the page](assets/images/calendar-screenshot-2.png)
 
+Link of deployed application - https://mypooja.github.io/workDayCalendar/
+
 ## Credits
 
 N/A
